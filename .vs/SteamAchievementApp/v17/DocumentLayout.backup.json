@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEE1995-E3AD-4EE6-AAE6-C3F28D19A070}|SteamAchievementApp.Tests\\SteamAchievementApp.Tests.csproj|c:\\users\\deevesh\\source\\repos\\steamachievementapp\\steamachievementapp.tests\\achievementservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEE1995-E3AD-4EE6-AAE6-C3F28D19A070}|SteamAchievementApp.Tests\\SteamAchievementApp.Tests.csproj|solutionrelative:steamachievementapp.tests\\achievementservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEE1995-E3AD-4EE6-AAE6-C3F28D19A070}|SteamAchievementApp.Tests\\SteamAchievementApp.Tests.csproj|c:\\users\\deevesh\\source\\repos\\steamachievementapp\\steamachievementapp.tests\\steamachievementapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AEE1995-E3AD-4EE6-AAE6-C3F28D19A070}|SteamAchievementApp.Tests\\SteamAchievementApp.Tests.csproj|solutionrelative:steamachievementapp.tests\\steamachievementapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA3651-9BF6-4AD0-90FE-5841817EBF47}|SteamAchievementApp\\SteamAchievementApp.csproj|c:\\users\\deevesh\\source\\repos\\steamachievementapp\\steamachievementapp\\services\\achievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA3651-9BF6-4AD0-90FE-5841817EBF47}|SteamAchievementApp\\SteamAchievementApp.csproj|solutionrelative:steamachievementapp\\services\\achievementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA3651-9BF6-4AD0-90FE-5841817EBF47}|SteamAchievementApp\\SteamAchievementApp.csproj|c:\\users\\deevesh\\source\\repos\\steamachievementapp\\steamachievementapp\\pages\\globalachievements.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BA3651-9BF6-4AD0-90FE-5841817EBF47}|SteamAchievementApp\\SteamAchievementApp.csproj|solutionrelative:steamachievementapp\\pages\\globalachievements.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA3651-9BF6-4AD0-90FE-5841817EBF47}|SteamAchievementApp\\SteamAchievementApp.csproj|c:\\users\\deevesh\\source\\repos\\steamachievementapp\\steamachievementapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BA3651-9BF6-4AD0-90FE-5841817EBF47}|SteamAchievementApp\\SteamAchievementApp.csproj|solutionrelative:steamachievementapp\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA3651-9BF6-4AD0-90FE-5841817EBF47}|SteamAchievementApp\\SteamAchievementApp.csproj|c:\\users\\deevesh\\source\\repos\\steamachievementapp\\steamachievementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA3651-9BF6-4AD0-90FE-5841817EBF47}|SteamAchievementApp\\SteamAchievementApp.csproj|solutionrelative:steamachievementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SteamAchievementApp.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp.Tests\\SteamAchievementApp.Tests.csproj",
+              "RelativeDocumentMoniker": "SteamAchievementApp.Tests\\SteamAchievementApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp.Tests\\SteamAchievementApp.Tests.csproj",
+              "RelativeToolTip": "SteamAchievementApp.Tests\\SteamAchievementApp.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T22:12:45.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AchievementServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp.Tests\\AchievementServiceTests.cs",
+              "RelativeDocumentMoniker": "SteamAchievementApp.Tests\\AchievementServiceTests.cs",
+              "ToolTip": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp.Tests\\AchievementServiceTests.cs",
+              "RelativeToolTip": "SteamAchievementApp.Tests\\AchievementServiceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:11:02.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SteamAchievementApp\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SteamAchievementApp\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T18:53:09.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalAchievements.razor",
+              "DocumentMoniker": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp\\Pages\\GlobalAchievements.razor",
+              "RelativeDocumentMoniker": "SteamAchievementApp\\Pages\\GlobalAchievements.razor",
+              "ToolTip": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp\\Pages\\GlobalAchievements.razor",
+              "RelativeToolTip": "SteamAchievementApp\\Pages\\GlobalAchievements.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T18:52:34.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp\\Program.cs",
+              "RelativeDocumentMoniker": "SteamAchievementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp\\Program.cs",
+              "RelativeToolTip": "SteamAchievementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:52:04.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AchievementService.cs",
+              "DocumentMoniker": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp\\Services\\AchievementService.cs",
+              "RelativeDocumentMoniker": "SteamAchievementApp\\Services\\AchievementService.cs",
+              "ToolTip": "C:\\Users\\Deevesh\\source\\repos\\SteamAchievementApp\\SteamAchievementApp\\Services\\AchievementService.cs",
+              "RelativeToolTip": "SteamAchievementApp\\Services\\AchievementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:51:42.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

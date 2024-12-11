@@ -1,0 +1,81 @@
+﻿@page "/achievements"
+@inject SteamAchievementApp.Services.AchievementService AchievementService
+
+<h3>Global Achievements</h3>
+
+<div class="mb-3">
+    <label for="appIdInput" class="form-label">Enter a Steam App ID:</label>
+    <input id="appIdInput" type="text" @bind="_inputAppId" class="form-control" placeholder="e.g., 730 for CSGO" />
+    <button class="btn btn-primary mt-2" @onclick="SearchAchievements">Search</button>
+</div>
+
+@if (_loading)
+{
+    <p><em>Loading...</em></p>
+}
+else if (_errorMessage != null)
+{
+    <div class="alert alert-danger">@_errorMessage</div>
+}
+else if (_achievements == null || _achievements.Count == 0)
+{
+    <p>No achievements found. Try a different App ID.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Achievement Name</th>
+                <th>Global Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var a in _achievements)
+            {
+                <tr>
+                    <td>@a.name</td>
+                    <td>@a.percent%</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<SteamAchievementApp.Services.Achievement> _achievements;
+    private string _inputAppId = "730"; // Default to CSGO
+    private bool _loading;
+    private string _errorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadAchievements(_inputAppId);
+    }
+
+    private async Task SearchAchievements()
+    {
+        await LoadAchievements(_inputAppId);
+    }
+
+    private async Task LoadAchievements(string appId)
+    {
+        _loading = true;
+        _errorMessage = null;
+        _achievements = null;
+        try
+        {
+            var response = await AchievementService.GetGlobalAchievementPercentagesAsync(appId);
+            _achievements = response?.achievementpercentages?.achievements ?? new List<SteamAchievementApp.Services.Achievement>();
+        }
+        catch (Exception ex)
+        {
+            // Handle cases where the API call fails or returns an unexpected structure
+            _errorMessage = $"Failed to load achievements: {ex.Message}";
+        }
+        finally
+        {
+            _loading = false;
+        }
+    }
+}
